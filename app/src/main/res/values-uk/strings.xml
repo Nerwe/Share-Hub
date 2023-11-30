@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Share Hub</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="hint_card_name">Ім\'я</string>
+    <string name="hint_card_surname">Прізвище</string>
+    <string name="hint_card_father">По батькові</string>
+    <string name="hint_card_number">Номер картки</string>
+    <string name="hint_card_cvv">CVV-код</string>
+    <string name="button_save">Зберегти</string>
+    <string name="empty_not_saved">Картку не було збережено, заповніть поля.</string>
+    <string name="add_card">Додати картку</string>
+    <string name="del_all">Видалити картку</string>
+</resources>
